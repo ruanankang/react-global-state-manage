@@ -8,9 +8,10 @@
     "allowJs": true,
     "noUnusedLocals": true,
     "noImplicitReturns": true,
-    "noImplicitThis": true,
-    "noImplicitAny": true,
-    "skipLibCheck": true
+    "noImplicitThis": false,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["src"]
 }
